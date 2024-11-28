@@ -1,2 +1,2 @@
 # Orca
-An approach to integrate psychological theories BigFive personality trait into existing role-playing methods
+The code has been moved to https://github.com/Airoura/OrcaText
